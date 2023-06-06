@@ -9,3 +9,7 @@ It includes the following mathematical and physical constants:
 - Avogadro Constant
 - Luminous Efficancy
 - Hyperfine Transition Frequency of Cs-133
+- Pi
+- Euler's Number
+- Tau
+- Golden Ratio
